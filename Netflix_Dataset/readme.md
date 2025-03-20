@@ -1,4 +1,4 @@
-# Netflix Dataset Analysis
+# Netflix Dataset Analysis 📊🎬
 
 ## Overview
 This repository contains an **Exploratory Data Analysis (EDA)** and **Machine Learning** approach for analyzing the Netflix dataset. The dataset includes metadata about movies and TV shows available on Netflix
@@ -24,20 +24,20 @@ This project aims to:
 - Perform **Exploratory Data Analysis (EDA)** to identify trends and insights.
 - **Visualize** the most common genres, directors, and ratings.
 
-## Data Preprocessing
-The dataset underwent the following preprocessing steps:
-- **Handling missing values**: Filling or removing missing director, cast, and country information.
-- **Feature engineering**: Extracting relevant features such as decade-based trends and content duration categorization.
-- **Encoding categorical variables**: Converting text-based categories into numerical representations for analysis.
-
-## Exploratory Data Analysis (EDA)
+## Exploratory Data Analysis (EDA) 🔍
 Several insights were derived from EDA:
 - **Most common movie ratings** to determine the type of content available.
 - **Top genres** by frequency.
 - **Most frequent directors** and their contributions.
 - **Content distribution over time** to analyze how Netflix's catalog evolved.
 
-## Visualizations
+## Visualizations 📊
 Key visualizations include:
 - **Bar charts** for most frequent genres, ratings, and directors.
 - **Pie charts** for comparing different categories of content.
+
+## Data Preprocessing ⚙️
+The dataset underwent the following preprocessing steps:
+- **Handling missing values**: Filling or removing missing director, cast, and country information.
+- **Feature engineering**: Extracting relevant features such as decade-based trends and content duration categorization.
+- **Encoding categorical variables**: Converting text-based categories into numerical representations for analysis.
