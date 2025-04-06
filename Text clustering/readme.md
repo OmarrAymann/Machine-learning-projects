@@ -21,6 +21,19 @@ The 20 Newsgroups Dataset contains around 20,000 newsgroup documents, categorize
 - **Content**: Main body of the newsgroup post.
 - **Headers**: Metadata such as subject line, author, and date.
 
+## **Structured Code**:
+     ├── src/
+     │   ├── preprocessing.py    # Code for data cleaning and preprocessing
+     │   ├── feature_extraction.py  # Code for vectorization and embedding
+     │   ├── clustering.py       # Code for implementing clustering models
+     │   ├── evaluation.py       # Code for computing clustering metrics
+     │   ├── visualization.py    # Code for plotting results
+     │   ├── main.py             # Main script to run the project pipeline
+     ├── results/                # Folder to save cluster results and visualizations
+     ├── requirements.txt        # List of required Python libraries
+     ├── README.md               # Project documentation
+     ```
+
 ## Methodology
 ### 1. Data Collection
 - Obtain the datasets from their respective sources.
